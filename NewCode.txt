@@ -1,1 +1,1 @@
-New JavaScript code added
+New JavaScript and typescript code added
